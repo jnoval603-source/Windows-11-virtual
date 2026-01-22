@@ -8,7 +8,6 @@ Thanks to:
 3.YouTube for (Tutorial this reposity)
 4.Workflow
 
-Sunday Temporarily Closed
 
 Bahasa Indonesia:
 Hanya sekali sehari, setelah itu besok lagi agar tidak melanggar aturan GitHub, gunakan sebaik mungkin, jangan melanggarnya.
@@ -19,4 +18,3 @@ Terima kasih kepada:
 3. YouTube untuk tutorial repositori ini
 4. Workflow
 
-Hari Minggu Ditutup sementara 
