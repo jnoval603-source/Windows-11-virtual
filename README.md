@@ -14,8 +14,8 @@ Fork repositori ini ke akun kamu.
 Masukkan SECRETS yang dibutuhkan di settings GitHub.
 
 3.Jalankan workflow di tab Actions.
-⚠️ Lisensi & Aturan Penggunaan
-Gunakan RDP ini hanya untuk kegiatan legal. Dilarang melakukan aktivitas ilegal seperti mining tanpa izin, membajak software/OS, hacking, atau eksploitasi sistem orang lain.
+⚠️Aturan Penggunaan
+Gunakan RDP ini hanya untuk kegiatan legal. Dilarang melakukan aktivitas ilegal seperti mining tanpa izin, membajak software/game, hacking, atau eksploitasi sistem orang lain.
 Semua risiko, termasuk akun yang dibanned atau disuspend, sepenuhnya menjadi tanggung jawab pengguna.
 Jika difork atau disalin, wajib mencantumkan sumber asli:
 
