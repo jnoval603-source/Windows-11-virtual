@@ -17,7 +17,7 @@ Masukkan SECRETS yang dibutuhkan di settings GitHub.
 4.Jalankan workflow di tab Actions.
 
 ⚠️Aturan Penggunaan:
-Gunakan RDP ini hanya untuk kegiatan legal. Dilarang melakukan aktivitas ilegal seperti mining tanpa izin, membajak software/game, hacking, atau eksploitasi sistem orang lain.
+Gunakan RDP ini hanya untuk kegiatan legal. Dilarang melakukan aktivitas ilegal seperti mining tanpa izin, hacking, atau eksploitasi sistem orang lain.
 Semua risiko, termasuk akun yang dibanned atau disuspend, sepenuhnya menjadi tanggung jawab pengguna.
 Jika difork atau disalin, wajib mencantumkan sumber asli:
 
@@ -26,3 +26,5 @@ Source: jnoval603-source
 #Windows 11 virtual 
 
 I From Indonesia 🇮🇩🇮🇩🇮🇩
+
+2026
